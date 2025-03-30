@@ -38,7 +38,7 @@ If you have a dataset, you can train use training.ipynb [![Open In Colab](https:
 ### Inference
 If you want infer directly, use inference.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/inference.ipynb)
 
-The weights I trained is located in [saved_models](https://github.com/jhan15/facial_emotion_recognition/tree/master/saved_models). The default setting is a voting classifer of a model trained by orginal data and a model trained by upsampled data.
+The weights I trained is located in [saved_models](https://github.com/vismayabanand/Facial-Emotion-Detector/tree/main/saved_models). The default setting is a voting classifer of a model trained by orginal data and a model trained by upsampled data.
 
 ## Performance
 ![image](https://user-images.githubusercontent.com/62132206/122231604-d94eef80-ceba-11eb-9ad4-1f73517da0ec.png)
